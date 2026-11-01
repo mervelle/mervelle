@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/finance-banner.gif" alt="Finance banner" width="100%">
+  <img src="finance-banner.gif" alt="Finance banner" width="100%">
 </p>
 
 ### AI & Data Science Engineering Student | Machine Learning | Deep Learning
