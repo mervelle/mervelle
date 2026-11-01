@@ -88,7 +88,7 @@ Contributing to the development of an AI and Cybersecurity student community thr
 
 ### 📫 Let's Connect
 
-- **Email:** marwato1204@gmail.com
+- **Email:** tohani.marwa@gmail.com
 - **LinkedIn:** [Marwa Tohani](https://www.linkedin.com/in/marwa-tohani-65400b25b/)
 - **GitHub:** [@mervelle](https://github.com/mervelle)
 
