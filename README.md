@@ -1,5 +1,9 @@
 # Hi, I'm Marwa Tohani 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Exploring+Data+Science;Building+Machine+Learning+Models;Turning+Data+into+Insights;Learning+and+Building+with+AI" />
+</p>
+
 ### AI & Data Science Engineering Student | Machine Learning | Deep Learning
 
 🎓 Second-year Engineering Student at the **National School of Applied Sciences of Béni Mellal (ENSA)**, Morocco, specializing in Artificial Intelligence and Cybersecurity.
