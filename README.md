@@ -8,7 +8,7 @@
   <img src="finance-banner.gif" alt="Finance banner" width="75%">
 </p>
 
-### AI & Data Science Engineering Student | Machine Learning | Deep Learning
+### AI & Cybersecurity Student | Machine Learning | Deep Learning
 
 🎓 Second-year Engineering Student at the **National School of Applied Sciences of Béni Mellal (ENSA)**, Morocco, specializing in Artificial Intelligence and Cybersecurity.
 
