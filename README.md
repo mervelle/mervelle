@@ -10,7 +10,7 @@
 
 ### AI & Cybersecurity Student | Machine Learning | Deep Learning
 
-🎓 Second-year Engineering Student at the **National School of Applied Sciences of Béni Mellal (ENSA)**, Morocco, specializing in Artificial Intelligence and Cybersecurity.
+🎓 Fourth-year Engineering Student at the **National School of Applied Sciences of Béni Mellal (ENSA)**, Morocco, specializing in Artificial Intelligence and Cybersecurity.
 
 I'm particularly interested in **Data Science, Machine Learning, and Deep Learning**, with a focus on building data-driven solutions to real-world problems.
 
